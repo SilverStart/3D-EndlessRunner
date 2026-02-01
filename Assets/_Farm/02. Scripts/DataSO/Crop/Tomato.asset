@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e417885ca92eff64ab99fbb57426117a, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  fruit: {fileID: 4568368276808388113, guid: 0f064b51cad0254459c5edd6b21f2ec9, type: 3}
+  growthTime: 3
+  maxFruitCount: 5
